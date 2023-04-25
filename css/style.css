@@ -463,7 +463,7 @@ button {
 }
 
 .box_main:hover .icon_2 {
-    background-image: url(images/images macoña/icon_1.png);
+    background-image: url(images/icons/marijuana.png);
 }
 
 .box_main:hover .icon_3 {
@@ -496,7 +496,7 @@ button {
 .icon_2 {
     width: 50px;
     margin: 0 auto;
-    background-image: url(images/images macoña/icon_1.png);
+    background-image: url(images/icons/marijuana (1).png);
     height: 60px;
     background-size: 100%;
     background-repeat: no-repeat;
