@@ -459,7 +459,7 @@ button {
 }
 
 .box_main:hover .icon_1 {
-    background-image: url(images/images macoña/icon_1.png);
+    background-image: url(images/images macoña./icon_1.png);
 }
 
 .box_main:hover .icon_2 {
@@ -485,7 +485,7 @@ button {
 .icon_1 {
     width: 50px;
     margin: 0 auto;
-    background-image: url(images/images macoña/icon_1.png); 
+    background-image: url(images/images macoña./icon_1.png); 
     height: 60px;
     background-size: 100%;
     background-repeat: no-repeat;
