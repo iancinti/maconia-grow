@@ -459,7 +459,7 @@ button {
 }
 
 .box_main:hover .icon_1 {
-    background-image: url(../icons/fertilizante.png);
+    background-image: url(images/icons/fertilizante-1-ConvertImage.ico);
 }
 
 .box_main:hover .icon_2 {
@@ -485,7 +485,7 @@ button {
 .icon_1 {
     width: 50px;
     margin: 0 auto;
-    background-image: url(../icons/fertilizante (1).png); 
+    background-image: url(images/icons/fertilizante-1-ConvertImage.ico); 
     height: 60px;
     background-size: 100%;
     background-repeat: no-repeat;
